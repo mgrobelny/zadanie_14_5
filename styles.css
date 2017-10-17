@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+body {
+	border: 10px transparent solid;
+	background-image: url('https://static.pexels.com/photos/1954/black-and-white-lights-abstract-curves.jpg');
+	background-size: 100%;
+	font-family: 'Roboto Mono', monospace;
+	text-transform: uppercase;
+}
+div {
+	color: white;
+	margin: 2px 40px;
+	padding-bottom: 10px;
+}
+form {
+	line-height: 50px;
+	text-align: center;
+	padding-top: 20px;
+}
+input {
+	font-family: 'Roboto Mono', monospace;
+	width: 10vw;
+	margin: 1px;
+	color: darkgray;
+	margin-bottom: 30px;
+}
+button {
+	border: none;
+	margin-left: 5px;
+	background-color: darkgray;
+	color: white;
+	padding: 3px 7px;
+}
+ul.contactsList {
+	background-color: transparent;
+}
+img {
+	height: 70px;
+	float: right;
+	margin-right: 20px;
+}
+div.contactItem {
+	padding: 15px;
+	margin: 0 auto;
+	border: 2px solid white;
+	width: 40vw;
+	background-color: transparent;
+	margin-bottom: 20px;
+	background-color: rgba(0, 0, 0, 0.9);
+}
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 10px;
+}
+p {
+	line-height: 5px;
+	font-size: 12px;
+}
